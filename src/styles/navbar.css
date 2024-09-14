@@ -1,0 +1,14 @@
+.header {
+    background-color: #fff;
+    height: 60px;
+    width: 100vw;
+    display: flex;
+}
+
+.avatar {
+    border-radius: 8px;
+}
+
+.navbar-right {
+    height: 60px;
+}
